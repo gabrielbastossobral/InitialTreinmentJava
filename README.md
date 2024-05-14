@@ -1,6 +1,6 @@
 # InitialTreinmentJava
-This is a basic archive about JAVA, into it there a lot of knowledge in primary functions to study about the JAVA's syntax
-Here you can see:
+This is a basic archive about JAVA, into it there a lot of knowledge in primary functions to study about the JAVA's syntax \t
+Here you can see: \t
 -Primitive types;
 -Operators;
 -Conditional structure;
